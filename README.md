@@ -7,11 +7,11 @@ Descarga audio y vídeo de YouTube, organízalo en carpetas y reprodúcelo sin c
 Necesitas Android 10 o posterior.
 
 1. Abre la [última versión de NebPlay](https://github.com/RVenturaSuarez/NebPlay-releases/releases/latest).
-2. Descarga el archivo que termina en **`universal.apk`** si no sabes qué versión elegir. Para móviles ARM64, como el Pixel 8 Pro, el archivo **`arm64-v8a.apk`** ocupa menos.
+2. Descarga **`NebPlay-<versión>-universal.apk`**, el único instalador. Sirve para todos los dispositivos compatibles.
 3. Abre el APK descargado. Si Android lo solicita, permite instalar desde el navegador o la aplicación con la que lo has abierto.
 4. Confirma la instalación y abre NebPlay.
 
-Solo necesitas instalar un APK. Los archivos `update.json` y `SHA256SUMS` no se instalan.
+El otro archivo, `update.json`, lo usa NebPlay para detectar actualizaciones. No tienes que descargarlo ni editarlo.
 
 ## Recibir actualizaciones
 
